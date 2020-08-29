@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "pilgrimageWebsite", ".", "{64373EAA-E192-4C66-80F2-A587DCFF4F03}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_59791"
+		Debug.AspNetCompiler.PhysicalPath = "..\pilgrimageWebsite\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_59791\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_59791"
+		Release.AspNetCompiler.PhysicalPath = "..\pilgrimageWebsite\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_59791\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "59791"
+		SlnRelativePath = "..\pilgrimageWebsite\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64373EAA-E192-4C66-80F2-A587DCFF4F03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64373EAA-E192-4C66-80F2-A587DCFF4F03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B348CFE7-7AEE-4CFD-8D4A-EAEACF749F46}
+	EndGlobalSection
+EndGlobal
